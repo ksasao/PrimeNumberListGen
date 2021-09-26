@@ -5,7 +5,10 @@ Implemented in C# (.NET 5).
 
 ## Download
 
+If you haven't installed .NET 5, [download .NET 5.0 Runtime](https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=5.0.0&arch=x64&rid=win10-x64).
+
 - [Windows binary (v1.0)](https://github.com/ksasao/PrimeNumberListGen/releases/download/v1.0/PListGen_v1.0.zip)
+
   
 ## Usage
 
