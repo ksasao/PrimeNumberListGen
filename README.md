@@ -5,7 +5,7 @@ Implemented in C# (.NET 5).
 
 ## Download
 
-- Windows binary
+- [Windows binary (v1.0)](https://github.com/ksasao/PrimeNumberListGen/releases/download/v1.0/PListGen_v1.0.zip)
   
 ## Usage
 
